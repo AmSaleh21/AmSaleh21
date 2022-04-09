@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdelrahman Saleh</h1>
+<h3 align="center">I'm a Software Engineer from Egypt.</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSaleh21&theme=midnight-purple" align="right"/>
-<h3 align="left">I'm a Software Engineer from Egypt.</h3>
 
 
 ### 🔭 Languages and Tools:
