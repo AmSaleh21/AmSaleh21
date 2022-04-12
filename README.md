@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdelrahman Saleh</h1>
-<h3 align="center">I'm a Software Engineer from Egypt.</h3>
+<h3 align="center">Junior Software Engineer with experience in software development using Java, JavaFx, NodeJS and Laravel using Clean, Efficient, and reusable code with the appropriate design patterns</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSaleh21&theme=midnight-purple" align="right"/>
 
 
@@ -28,19 +28,19 @@
   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<!--
+-->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
- 🌱 I’m currently learning NodeJS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on : NodeJS and Bash scripts
+- 🌱 I’m currently learning : NodeJS
+- 💬 Ask me about : NodeJS, Vanilla JS and Linux
+- ⚡ Fun fact : The first computer “bug” was an actual real-life bug
+
+  <!-- - 👯 I’m looking to collaborate on ... -->
+  <!-- - 🤔 I’m looking for help with ... -->
+  <!-- - 📫 How to reach me: ... -->
+  <!-- - 😄 Pronouns: ... -->
 
 </div>
 
