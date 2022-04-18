@@ -30,7 +30,6 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 -->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on : NodeJS and Bash scripts
 - 🌱 I’m currently learning : NodeJS
