@@ -45,7 +45,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/abdelrahman-saleh-4b384a237/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/amsaleh21/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://github.com/AmSaleh21"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 <!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 </p>
