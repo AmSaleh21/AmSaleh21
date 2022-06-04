@@ -1,6 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdelrahman Saleh</h1>
+<h1 align="center">Hi, 👋 I'm Abdelrahman Saleh</h1>
 <h3 align="center">Junior Software Engineer with experience in software development using Java, JavaFx, NodeJS, ReactJs, Angular and more using Clean, Efficient, and reusable code with the appropriate design patterns</h3>
 
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="13px">, -->
 
 - 🔭 I’m currently working on : NodeJS, React, odoo and Django
 - 🌱 I’m currently learning : Django
