@@ -49,6 +49,10 @@
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   </a>
+  
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  </a>
                       
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -80,8 +84,8 @@
   </a>
 
 
+
 <!--
-  <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 -->
 
