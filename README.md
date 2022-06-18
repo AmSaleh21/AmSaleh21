@@ -1,17 +1,36 @@
 <h1 align="center">Hi, 👋 I'm Abdelrahman Saleh</h1>
-<h3 align="center">Junior Software Engineer with experience in software development using Java, JavaFx, NodeJS, ReactJs, Angular and more using Clean, Efficient, and reusable code with the appropriate design patterns</h3>
+<div align="center">
+    <h3>Junior Software Engineer with experience in software development using Java, JavaFx, NodeJS, ReactJs, Angular and more using Clean, Efficient, and reusable code with the appropriate design patterns </h3>
+</div>
+<hr/>
+
+## Connect with me:
+
+<a href = "https://www.linkedin.com/in/AmSaleh21/">
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+</a>
 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="13px">, -->
 
-- 🔭 I’m currently working on : NodeJS, React, odoo and Django
+<hr/>
+
+- 🔭 I’m currently working on : NodeJS, React, and Django
 - 🌱 I’m currently learning : Django
 - 💬 Ask me about : NodeJS, Vanilla JS and Linux
 - 👯 I’m looking to collaborate on : mean | mern projects
 - ⚡ Fun fact : The first computer “bug” was an actual real-life bug
-  
   <!-- - 🤔 I’m looking for help with ... -->
 
+<hr/>
+
+<div align="center">
+  <img alt="its science not magic" src="https://user-images.githubusercontent.com/95314680/174452466-2a5d80c5-7ca8-4e37-870a-929914538201.jpg" width="500px"/>
+</div>
+
+<hr/>
+
 ### 🔭 Languages and Frameworks:
+
 <div style="display: flex;">
   <a href="https://www.programiz.com/c-programming" target="_blank" rel="noreferrer">
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -22,18 +41,17 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   </a>
-      
+
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>    
-  <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank" rel="noreferrer">
     <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
-            
-            
+
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </a>   
@@ -49,27 +67,38 @@
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   </a>
-  
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   </a>
-                      
+
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   </a>    
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  </a> 
- 
- ### 🔏 Databases:
+  </a>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  </a>
+
+### 🔏 Database:
+
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>   
+  <a href="https://www.postgresql.com/" target="_blank" rel="noreferrer">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </a>
-    
- ### 🔑 Technologies:
+
+### 🔑 Technologies:
+
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
@@ -78,36 +107,30 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
 
-  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 
-
-
-<!--
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
--->
-
 </div>
 
-## Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/amsaleh21/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://github.com/AmSaleh21"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
-</p>
+<!-- ## Connect with me: -->
+<!-- <p align="left">
+<a href = "https://www.linkedin.com/in/AmSaleh21/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
+<!-- <a href = "https://github.com/AmSaleh21"><img src="https://img.icons8.com/color/48/000000/github.png"/></a> -->
+<!-- </p> -->
 
 ## 📊 Stats and Trophies
-<div style="display=flex;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSaleh21&theme=midnight-purple"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmSaleh21&show_icons=true&theme=midnight-purple"/>
-
+<div style="display:flex;">
+   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=AmSaleh21&show_icons=true&theme=midnight-purple"/>
+   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSaleh21&theme=midnight-purple" align="right"/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmSaleh21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<hr/>
 
-## ❤ Views and Followers
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmSaleh21&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- ## ❤ Views and Followers
 <a href="https://github.com/AmSaleh21/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AmSaleh21"> </a>
-<a href="https://github.com/AmSaleh21?tab=followers"><img src="https://img.shields.io/github/followers/AmSaleh21?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/AmSaleh21?tab=followers"><img src="https://img.shields.io/github/followers/AmSaleh21?label=Followers&style=social" alt="GitHub Badge"></a> -->
