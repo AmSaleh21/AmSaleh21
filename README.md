@@ -122,8 +122,8 @@
 ## 📊 Stats and Trophies
 
 <div style="display:flex;">
-   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=AmSaleh21&show_icons=true&theme=midnight-purple"/>
-   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmSaleh21&theme=midnight-purple" align="right"/>
+   <img alt="stats" src="https://github-readme-stats-pi-taupe-70.vercel.app/api?username=AmSaleh21&show_icons=true&theme=midnight-purple"/>
+   <img alt="languages" src="https://github-readme-stats-pi-taupe-70.vercel.app/api/top-langs/?username=AmSaleh21&theme=midnight-purple" align="right"/>
 </div>
 
 <hr/>
